@@ -19,7 +19,7 @@ import zipfile
 # defines
 AWS_ACCESS_KEY = 'my_access_key'
 AWS_SECRET_KEY = 'my_secret_key'
-AWS_TEST_BUCKET = 'my_bucket'
+AWS_BUCKET = 'my_bucket'
 
 # use a file-like object for the zip file
 obj = cStringIO.StringIO()
